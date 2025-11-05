@@ -29,6 +29,6 @@
 
 ![GitHub Trophy](https://github-profile-trophy.vercel.app/?username=Yao0454)
 
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Yao0454)
+[![GitHub Streak](https://streak-stats.demolab.com?user=Yao0454&locale=zh_Hans)](https://git.io/streak-stats)
 
 </div>
